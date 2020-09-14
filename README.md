@@ -1,13 +1,17 @@
-### Something about myself 
+## Something about myself 
 
 Hi !! I am Nikita Shisodia.
+
 I have been working in a Service based company where I hold almost 2.5 years of experience in SQL and Visualisations tools for building reports.
 Along with these reports I am responsible to build Validations, Approvals, and Alerts to ease the transaction process.
 My designation is SAP Business One Technical Consultant.
+
 Moreover, I am also handling a team of 3 Technical consultants where I have to make sure that they are occupied with tasks and verify the tasks submitted by them before delivering them to the Project manager.
+
 I have done PGD in Data Science from the International Institute of Information Technology Bangalore and UpGrad where I learned to build Machine Learning algorithms, handling data, understanding, and inferring data.
 I have also worked in Natural Language Processing where I had to build a project on Sentimental Analysis (predicting sentiment from a given sentence) and Chatbot using Rasa Framework.
-I am currently looking for a transaction in Data Science to enhance my knowledge and get experience working on Real-Time projects.
+
+I am currently looking for a transition in Data Science to enhance my knowledge and get experience working on Real-Time projects.
 
 
 Warm Regards,<br>
