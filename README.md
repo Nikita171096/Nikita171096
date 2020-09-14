@@ -9,11 +9,13 @@ I have done PGD in Data Science from the International Institute of Information 
 I have also worked in Natural Language Processing where I had to build a project on Sentimental Analysis (predicting sentiment from a given sentence) and Chatbot using Rasa Framework.
 I am currently looking for a transaction in Data Science to enhance my knowledge and get experience working on Real-Time projects.
 
-Here are my details :<br>
-**Phone Number :** 8128558500 <br>
-**Email Id :** shisodianikita@gmail.com <br>
+
+Warm Regards,<br>
+Nikita Shisodia <br>
+Phone: +91 - 8128558500 <br>
+Email: shisodianikita@gmail.com <br>
 [Linkedin](https://www.linkedin.com/in/nikita-shisodia/) <br>
 [Hackerrank](https://www.hackerrank.com/shisodianikita) <br>
 [Degree Certificate](https://api.accredible.com/v1/auth/invite?code=268cdadc08b9ec0faf92&credential_id=4ef9650b-951e-46f3-a4f5-3caa7fd93ad8&url=https%3A%2F%2Fwww.credential.net%2F4ef9650b-951e-46f3-a4f5-3caa7fd93ad8&ident=8d1dd81fe29f0cdba879ca276b867152d422430d)
 
-*Thankyou ..!! :smile:*
+*Thankyou ..!!* :smile:
