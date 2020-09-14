@@ -10,8 +10,10 @@ I have also worked in Natural Language Processing where I had to build a project
 I am currently looking for a transaction in Data Science to enhance my knowledge and get experience working on Real-Time projects.
 
 Here are my details :
-**Email Id :** [Email Id] shisodianikita@gmail.com
+**Email Id :** [Email Id](shisodianikita@gmail.com)
+
 **LinkedIn : ** [Linkedin](https://www.linkedin.com/in/nikita-shisodia/)
-**Degree Certificate :** Degree Certificate(https://api.accredible.com/v1/auth/invite?code=268cdadc08b9ec0faf92&credential_id=4ef9650b-951e-46f3-a4f5-3caa7fd93ad8&url=https%3A%2F%2Fwww.credential.net%2F4ef9650b-951e-46f3-a4f5-3caa7fd93ad8&ident=8d1dd81fe29f0cdba879ca276b867152d422430d)
+
+**Degree Certificate :** [Degree Certificate](https://api.accredible.com/v1/auth/invite?code=268cdadc08b9ec0faf92&credential_id=4ef9650b-951e-46f3-a4f5-3caa7fd93ad8&url=https%3A%2F%2Fwww.credential.net%2F4ef9650b-951e-46f3-a4f5-3caa7fd93ad8&ident=8d1dd81fe29f0cdba879ca276b867152d422430d)
 
 Thankyou ..!! :smile:
