@@ -1,4 +1,4 @@
-# Nikita Shisodia
+### Something about myself 
 
 Hi !! I am Nikita Shisodia.
 I have been working in a Service based company where I hold almost 2.5 years of experience in SQL and Visualisations tools for building reports.
