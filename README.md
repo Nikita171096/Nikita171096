@@ -10,7 +10,7 @@ I have also worked in Natural Language Processing where I had to build a project
 I am currently looking for a transaction in Data Science to enhance my knowledge and get experience working on Real-Time projects.
 
 Here are my details :<br>
-**Phone Number :** 8128558500
+**Phone Number :** 8128558500 <br>
 **Email Id :** shisodianikita@gmail.com <br>
 [Linkedin](https://www.linkedin.com/in/nikita-shisodia/) <br>
 [Hackerrank] (https://www.hackerrank.com/shisodianikita) <br>
